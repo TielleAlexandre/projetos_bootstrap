@@ -1,0 +1,69 @@
+/* HEADER  */
+header {
+    background-color: #3db0f7;
+    margin-bottom: 2.5%;
+}
+
+.col-12.faixa{
+    background-color: #ff7200;
+    height: 6px;
+}
+
+.bi.bi-bicycle{
+    font-size: 80px;
+    display: inline-block;
+    transform: rotate(-15deg);
+    color: #ed9121;
+}
+
+#logo{
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Stencil;
+}
+
+div.col-4 img{
+    width: 80%;
+}
+
+/* SECTION MSG  */
+#msg{
+    margin-left: 10%;
+    margin-bottom: 1%;
+    color: #e32636;
+}
+
+
+/* SECTION */
+
+#principal{
+    background-color: #ffffff;
+}
+
+    /* FORMULÁRIO */
+
+    #endereco{
+        max-width:75%;
+        display: inline-block;
+        margin-right: 20px;
+    }
+
+    #qtdBicicletario{
+        max-width: 6%;
+        display: inline-block;
+    }
+
+    #btnBusca{
+        margin-top: 1%;
+    }
+
+   /* MAPA */
+    #map {
+        height: 420px;
+    }
+
+    #principal div.row{
+        margin-bottom: 1.1%;
+    }
+
